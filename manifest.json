@@ -1,0 +1,24 @@
+{
+  "short_name": "Sec+ Quiz",
+  "name": "Security+ SY0-701 Exam Prep",
+  "description": "CompTIA Security+ SY0-701 practice quiz app",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0e1a",
+  "background_color": "#0a0e1a"
+}
